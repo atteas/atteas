@@ -1,8 +1,10 @@
 ![profile banner](images/atteas_ascii_rounded.png)
 
-# Hi, my name is Atte!
+<h1 align="center">Hi, my name is Atte!</h1>
 
-## About me
+
+
+<h2 align="center">About me</h2>
 
 ```java
 public class Me {
@@ -10,7 +12,7 @@ public class Me {
     private String firstName = "Atte";
     private String occupation = "College Student 📚";
     private String[] skills = {"Python", "Java", "C++", "Web Development", "Cybersecurity"};
-    private String[] hobbies = {"Coding", "Ethical Hacking", "Gaming", "Petting my pet lizard :)"};
+    private String[] hobbies = {"Coding", "Ethical Hacking", "Gaming", "Making ASCII-art", "Petting my pet lizard :)"};
 
     //functions
     public void introduce() {
@@ -37,8 +39,9 @@ public class Me {
 }
 ```
 
-## I'm currently learning
 
+
+<h2 align="center">I'm currently learning</h2>
 <p float="left">
   <img alt="learning image 1" src="images/germany.png" width="100" />
 </p>
