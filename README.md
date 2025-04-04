@@ -39,6 +39,16 @@ public class Me {
 
 
 
+<h2 align="center">My favorite languages</h2>
+<p float="left">
+    <img alt="language image 1" src="images/python.png" width="100" />
+    <img alt="language image 2" src="images/java.png" width="100" />
+    <img alt="language image 3" src="images/cpp.png" width="100" />
+    <img alt="language image 4" src="images/js.png" width="100" />
+</p>
+
+
+
 <h2 align="center">I'm currently learning</h2>
 <p float="left">
   <img alt="learning image 1" src="images/germany.png" width="100" />
