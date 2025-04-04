@@ -6,7 +6,7 @@
 
 ```java
 public class Me {
-    //Information
+    //information
     private String firstName = "Atte";
     private String occupation = "College Student 📚";
     private String[] skills = {"Python", "Java", "C++", "Web Development", "Cybersecurity"};
@@ -36,3 +36,9 @@ public class Me {
     }
 }
 ```
+
+## I'm currently learning
+
+<p float="left">
+  <img alt="learning image 1" src="images/germany.png" width="100" />
+</p>
